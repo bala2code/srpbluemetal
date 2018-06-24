@@ -1,0 +1,2 @@
+# srpbluemetal
+static page
